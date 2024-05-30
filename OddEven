@@ -6,11 +6,11 @@ int a = 12;
 if(a%2==0)
 {
 System.out.println("Even");
+System.out.println("Sudha");
 for(int i=0; i<=a; i++)
 {
  System.out.println("i is "+ i);
-System.out.println("Wipro");
-}
+
 }
 else
 {
